@@ -1,0 +1,10 @@
+streamlit>=1.60.0
+pandas>=2.0.0
+numpy>=1.26.0
+requests>=2.31.0
+xgboost>=2.0.0
+scikit-learn>=1.4.0
+shap>=0.45.0
+matplotlib>=3.8.0
+SQLAlchemy>=2.0.0
+pdfplumber>=0.11.0
