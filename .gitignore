@@ -1,0 +1,6 @@
+rcm_production_master.db
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.pdf
