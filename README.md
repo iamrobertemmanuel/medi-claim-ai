@@ -1,4 +1,4 @@
-# PrimEra RCM — Claims Denial-Risk Prototype
+# RCM — Claims Denial-Risk Prototype
 
 A Streamlit application prototyping an end-to-end revenue cycle management (RCM) workflow: diagnostic/procedure code validation, ML-based claims denial-risk scoring, payer policy mapping, and automated appeal-letter drafting.
 
